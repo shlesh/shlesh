@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![DEDSEC](https://thumbs.gfycat.com/ApprehensiveOddballAgama-max-1mb.gif)  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shlesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
