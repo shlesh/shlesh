@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
   
-<img src="https://thumbs.gfycat.com/ApprehensiveOddballAgama-max-1mb.gif" width="40" height="40" />
+<img src="https://c.tenor.com/Mm3xSW9NCYwAAAAC/watch_dogs-watch-dog.gif" width="500" height="280" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shlesh)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shlesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
