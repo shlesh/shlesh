@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![DEDSEC](https://thumbs.gfycat.com/ApprehensiveOddballAgama-max-1mb.gif)  
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
