@@ -1,4 +1,6 @@
-### Hi there, I'm <a href="https://shlesh.herokuapp.com/" target="_blank">Shailesh Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">  
+  
+## Hi there, I'm <a href="https://shlesh.herokuapp.com/" target="_blank">Shailesh Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shailesh-t/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/shlaize/)
@@ -10,17 +12,16 @@
 I am a frontend developer and a sophomore at IIITA. 
 
 
-
-<img src="https://tenor.com/view/cat-type-fast-busy-kitten-gif-16655467.gif" width="250px">
+<img src="https://tenor.com/view/cat-type-fast-busy-kitten-gif-16655467.gif" width="250px">  
 
 
 **Talking about Personal Stuff:**
 
-- 👨🏻‍💻 I’m currently working on Opencode
-- 🚀 I’m currently learning backend web development
-- 💬 Ask me about anything, I am happy to help
-- 📝 Check out my latest blog on vs code styling on [medium](https://medium.com/@23shlesh)
-- 📫 Reach me at: iib2020001@iiita.ac.in
+👨🏻‍💻 I’m currently working on Opencode  
+🚀 I’m currently learning backend web development  
+💬 Ask me about anything, I am happy to help  
+📝 Check out my latest blog on vs code styling on [medium](https://medium.com/@23shlesh)  
+📫 Reach me at: iib2020001@iiita.ac.in
 
 
 </br>
@@ -35,6 +36,4 @@ I am a frontend developer and a sophomore at IIITA.
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlesh&theme=gotham&hide_border=true" alt="Karan's Github Streak" width="600"/>
   
 </p>
-
-
-
+</div>
