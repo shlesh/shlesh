@@ -33,7 +33,6 @@ I am a frontend developer and a sophomore at IIITA.
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shlesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlesh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlesh&theme=gotham&hide_border=true" alt="Karan's Github Streak" width="600"/>
-  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlesh&theme=gotham&hide_border=true" alt="My Github Streak" width="600"/>
 </p>
 </div>
