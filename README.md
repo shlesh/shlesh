@@ -16,11 +16,11 @@ I am a frontend developer and a sophomore at IIITA.
 
 **Talking about Personal Stuff:**
 
-- 👨🏻‍💻 I’m currently working on Opencode;
-- 🚀 I’m currently learning backend, web development;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏻‍💻 I’m currently working on Opencode
+- 🚀 I’m currently learning backend web development
+- 💬 Ask me about anything, I am happy to help
 - 📝 Check out my latest blog on vs code styling on [medium](https://medium.com/@23shlesh)
-- 📫 How to reach me: iib2020001@iiita.ac.in;
+- 📫 Reach me at: iib2020001@iiita.ac.in
 
 
 </br>
