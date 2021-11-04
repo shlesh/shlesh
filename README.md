@@ -14,27 +14,27 @@
 I am a frontend developer and a sophomore at IIITA. 
 
 
-## My Technical Skills
+## My Technical Skills  
+![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=git&logoColor=white&color=258f76)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-Google-informational?style=flat&logo=google&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-GoogleChrome-informational?style=flat&logo=google-chrome&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Code-Java-ED8B00?style=flat&logo=git&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Code-Markdown-0000?style=flat&logo=git&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat&logo=git&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat&logo=git&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-Google-informational?style=flat&logo=google&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-GoogleChrome-informational?style=flat&logo=google-chrome&logoColor=white&color=258f76)
 ![](https://img.shields.io/badge/Tools-Firefox-informational?style=flat&logo=Firefox&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-Debian-informational?style=flat&logo=Debian&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=git&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-Node.js-43853D?style=flat&logo=git&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat&logo=git&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat&logo=git&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-Sass-CC6699?style=flat&logo=git&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Code-Java-ED8B00?style=flat&logo=git&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Code-Markdown-0000?style=flat&logo=git&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-React-20232A?style=flat&logo=git&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-Bootstrap-563D7C?style=flat&logo=git&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-React_Native-20232A?style=flat&logo=git&logoColor=white&color=258f76)
-  ![](https://img.shields.io/badge/Tools-Express.js-404D59?style=flat&logo=git&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-Debian-informational?style=flat&logo=Debian&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-Node.js-43853D?style=flat&logo=git&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-Sass-CC6699?style=flat&logo=git&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-React-20232A?style=flat&logo=git&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-Bootstrap-563D7C?style=flat&logo=git&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-React_Native-20232A?style=flat&logo=git&logoColor=white&color=258f76)
+![](https://img.shields.io/badge/Tools-Express.js-404D59?style=flat&logo=git&logoColor=white&color=258f76)
   
   
   
