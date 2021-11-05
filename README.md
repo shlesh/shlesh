@@ -53,7 +53,6 @@ I am a frontend developer and a sophomore at IIITA.
 
 <div align="center"> 
 
-
 📈 **My GitHub Stats:**
 
 <p>
