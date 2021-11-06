@@ -39,7 +39,6 @@ I am a frontend developer and a sophomore at IIITA.
   
   
 
-
 **Talking about Personal Stuff:**
 
 👨🏻‍💻 I’m currently working on Opencode  
