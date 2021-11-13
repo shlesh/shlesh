@@ -13,6 +13,7 @@
 
 I am a frontend developer and a sophomore at IIITA. 
 
+  
 
 ## My Technical Skills  
 ![](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=git&logoColor=white&color=258f76)
