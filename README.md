@@ -11,8 +11,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shlesh.shlesh)
 
-I am a frontend developer and a sophomore at IIITA. 
-
+I am a frontend developer and a pre-final year student at IIITA. 
   
 
 ## My Technical Skills  
@@ -41,7 +40,7 @@ I am a frontend developer and a sophomore at IIITA.
   
 **Talking about Personal Stuff:**
 
-👨🏻‍💻 I’m currently working on Opencode  
+👨🏻‍💻 I’m currently working on a sweet cyber-sec/web-app project
 🚀 I’m currently learning backend web development  
 💬 Ask me about anything, I am happy to help  
 📝 Check out my latest blog on vs code styling on [medium](https://medium.com/@23shlesh)  
