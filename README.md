@@ -40,7 +40,7 @@ I am a frontend developer and a final year student at IIITA.
   
 **Talking about Personal Stuff:**
 
-👨🏻‍💻 I’m currently working on a sweet cyber-sec/web-app project  
+👨🏻‍💻 I’m currently working on a note taking web app  
 🚀 I’m currently learning backend web development  
 💬 Ask me about anything, I am happy to help  
 📝 Check out my latest blog on vs code styling on [medium](https://medium.com/@23shlesh)  
