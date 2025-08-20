@@ -44,7 +44,7 @@ I am a frontend developer and a final year student at IIITA.
 🚀 I’m currently learning backend web development  
 💬 Ask me about anything, I am happy to help  
 📝 Check out my latest blog on vs code styling on [medium](https://medium.com/@23shlesh)  
-📫 Reach me at: iib2020001@iiita.ac.in
+📫 Reach me at: 23shlesh@gmail.com
 
 
   
