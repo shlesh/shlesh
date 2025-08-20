@@ -11,7 +11,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=shlesh.shlesh)
 
-I am a frontend developer and a final year student at IIITA. 
+I am a frontend developer and a TPM. 
   
 
 ## My Technical Skills  
